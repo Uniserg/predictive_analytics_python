@@ -1,2 +1,5 @@
-trained_models
+models
+scalers
+data
 __pycache__
+*token.txt
